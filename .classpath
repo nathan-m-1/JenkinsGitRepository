@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/guice-4.1.0-no_aop.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/Saxon-HE-9.7.0-1.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/selenium-edge-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/selenium-ie-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/selenium-opera-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/selenium-safari-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/snakeyaml-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Buro/Cursos_Udemy/Selenium/jar/testng-7.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
